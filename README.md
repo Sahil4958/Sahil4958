@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Om Patel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Myself Sahil Vaidya</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    Myself <b>Om Patel</b>, a final year <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    Myself <b>Sahil Vaidya</b>, a final year <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
+    An aspiring <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
@@ -66,14 +66,14 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/omunite215">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/Sahil4958">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Sahil4958&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/omunite215">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/Sahil4958">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil4958&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil4958&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Sahil4958" /></p>
 </details>
 
 ---
@@ -89,13 +89,10 @@
   <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/omunite215">
+   <a href="https://github.com/Sahil4958">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://portfoliobyom.netlify.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
+
   <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Om Patel</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
+<p align="right" > Created with 🧡 by <a href="https://github.com/Sahil4958">Sahil Vaidya</a></p>
